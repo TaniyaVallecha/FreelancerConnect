@@ -119,7 +119,7 @@ if($_SESSION['client_userrole'] !== 'Client' )
 					<a href="client_chat.php" class="nav-link" style="padding-top: 20px; color: white;"><i class="fas fa-envelope"> </i> </a>
 				</li>&nbsp;
 
-				<?php if($message>0) { ?>
+				<?php if($message >0) { ?>
 				<span class="text-success" style="margin-top: 10px; font-weight: bold; margin-left: -10px;"> <?php echo $message; ?></span>
 				<?php } ?>&nbsp;&nbsp;
 

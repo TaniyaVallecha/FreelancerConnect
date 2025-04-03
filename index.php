@@ -223,7 +223,7 @@ if(isset($_POST['signin']))
 <body style="background-color:#E8E8E8">
 
 	<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #292b2c;">
-		<a class="navbar-brand" style="color: teal; font-weight: bold;" href="#"><img src="images/iniesta-logo.jpg" alt="iniesta-logo" style="border-radius: 5px;"> INIESTA Freelancing</a>
+		<a class="navbar-brand" style="color: teal; font-weight: bold;" href="#"><img src="images/iniesta-logo.jpg" alt="iniesta-logo" style="border-radius: 5px;"> FreelancerConnect</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
@@ -284,10 +284,10 @@ if(isset($_POST['signin']))
 
 	<div class="welcome-title">
 		<h1>Talent you seek is the talent we render&#8482;</h1>
-		<h1 class="green">INIESTA-Freelancing Provides</h1>
-		<h6>INIESTA-Freelancing expertly connects professionals and agencies to businesses seeking specialized talent.
+		<h1 class="green">FreelancerConnect</h1>
+		<h6>FreelancerConnect-Freelancing expertly connects professionals and agencies to businesses seeking specialized talent.
 		</h6>
-		<h6>Find top Specialists on INIESTA-Freelancing —
+		<h6>Find top Specialists on FreelancerConnect —
 			the Best freelancing website for short-term, recurring, and full-time contract work.</h6>
 		<br>
 		<a data-qa="cta" class="cta-group__btn btn btn-primary mb-0 mr-10" href="register.php" track-event="click">
@@ -543,7 +543,7 @@ if(isset($_POST['signin']))
 			<a href="https://www.instagram.com/iniestawebtech/" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
 		</div>
 		<a href="">
-			<h6>&copy; INIESTA 2020</h6>
+			<h6>&copy; FreelancerConnect 2020</h6>
 		</a>
 	</div>
 	<!-- footer end -->
@@ -559,12 +559,12 @@ if(isset($_POST['signin']))
 					</button>
 				</div>
 				<div class="modal-body">
-					<p>Iniesta webtech solution pvt ltd <br>
+					<p>FreelancerConnect webtech solution pvt ltd <br>
 						Ring us at: <br>
 						9871428181 <br>
 						8182818101 <br>
 						Ping us at: <br>
-						email- Iniestawebtech@gmail.com <br>
+						email- FreelancerConnect@gmail.com <br>
 						Office Address <br>
 						Office number 3 third floor H-61 sector 63 Noida <br>
 						Uttar pradesh <br>
@@ -604,7 +604,7 @@ if(isset($_POST['signin']))
 						<b>Locations</b><br>
 
 						---------- ------------ --------------- <br>
-						Teams (Our Iniesta Employees) <br>
+						Teams (Our FreelancerConnect Employees) <br>
 						XXXXX <br>
 						YYYYY <br>
 						ZZZZZ <br>
@@ -629,7 +629,7 @@ if(isset($_POST['signin']))
 				<div class="modal-body">
 					<p>
 						<b>Our Story</b><br>
-						The Iniesta story begins over a decade ago, when the tech lead of a Silicon Valley startup
+						The FreelancerConnect story begins over a decade ago, when the tech lead of a Silicon Valley startup
 						realized his close friend in Athens would be perfect for an internet project. The team agreed he
 						was the most effective choice, but were concerned about working with someone halfway round the
 						globe. <br>
@@ -640,21 +640,21 @@ if(isset($_POST['signin']))
 						pleasure in reliable access to a bigger pool of quality talent, while workers would enjoy
 						freedom and adaptability to seek out jobs online. Together they decided to begin a corporation
 						that might deliver on the promise of this technology.
-						Fast-forward to today, that technology is that the foundation of Iniesta — the most important
-						global freelancing website. With countless jobs posted on Iniesta annually, freelancers are
+						Fast-forward to today, that technology is that the foundation of FreelancerConnect — the most important
+						global freelancing website. With countless jobs posted on FreelancerConnect annually, freelancers are
 						earning money by providing companies with over 5,000 skills across over 70 categories of labor.
 						<br>
 						<b>A world of opportunities</b><br>
-						Through Iniesta businesses get more done, connecting with freelancers to figure on projects from
+						Through FreelancerConnect businesses get more done, connecting with freelancers to figure on projects from
 						web and mobile app development to SEO, social media marketing, content writing, graphic design,
-						admin help and thousands of other projects. Iniesta makes it fast, simple, and cost-effective to
+						admin help and thousands of other projects. FreelancerConnect makes it fast, simple, and cost-effective to
 						seek out, hire, work with, and pay the most effective professionals anywhere, any time.
 						<br>
-						<b>Iniesta’s vision</b> <br>
+						<b>FreelancerConnect's vision</b> <br>
 						To be the number one flexible talent solution in the world. <br>
-						<b>Iniesta's mission</b><br>
+						<b>FreelancerConnect's's mission</b><br>
 						To create economic opportunities so people have better lives. <br>
-						<b>Iniesta’s values</b><br>
+						<b>FreelancerConnect's values</b><br>
 						Put our community first. <br>
 						Inspire a boundless future of work. <br>
 						Build amazing teams. <br>

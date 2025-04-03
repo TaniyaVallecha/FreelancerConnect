@@ -1,10 +1,8 @@
 <?php
-//global $connection;
-$connection = mysqli_connect('localhost','root','','new');
-if(!$connection)
-{
-	die("Connection Failed!".mysqli_error($connection));
+$connection = mysqli_connect('127.0.0.1', 'root', '', 'freelance', 3377);
+
+if (!$connection) {
+    die("❌ Connection failed: " . mysqli_connect_error());
 }
-date_default_timezone_set('Asia/Kolkata');
 
-
+?>

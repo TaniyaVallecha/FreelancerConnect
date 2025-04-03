@@ -54,7 +54,7 @@ if(isset($_POST['submit']))
 	{	
 		$verify = false;
 		$query ="INSERT INTO regestration(firstname, lastname, user_password, user_email, user_role, Admin_Status)";
-		$query .="VALUES('$firstname','$lastname','$password','$email','$user_role', 'Disapproved')";
+		$query .="VALUES('$firstname','$lastname','$password','$email','$user_role', 'Approved')";
 		
 		$result_query = mysqli_query($connection,$query);
 		
@@ -149,7 +149,7 @@ if(isset($_POST['submit']))
 		<button class="btn btn-lg btn-primary btn-block" type="submit" name="submit">Register</button>
 		<br>
 		<p><a href="index.php">Already have an account ? Log in ></a></p>
-		<p class="mt-5 mb-3 text-muted">&copy; Iniesta 2020</p>
+		<p class="mt-5 mb-3 text-muted">&copy; FreelancerConnect 2020</p>
 	</form>
 	<?php else: ?>
 
